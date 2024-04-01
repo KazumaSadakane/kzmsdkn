@@ -6,7 +6,7 @@
 ### A little bit about ME
 
 I am a Full Stack Developer and a Data Analyst, and currently learning Penetration Test. 
-I love identifying problems and analyzing them.
+I love identifying and analyzing problems.
 
 ### Talking about Personal Stuff:
 
