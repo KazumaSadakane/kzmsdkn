@@ -1,11 +1,10 @@
 ## Hey there 👋, I'm [Kazuma!](https://github.com/kzmsdkn/)
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kazuma-sadakane/)
-[![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white)](https://www.threads.net/@kazuma.sadakane)
 
 ### A little bit about ME
 
-I am a Full Stack Developer and a Data Analyst, and currently learning Penetration Test. 
+I am a Full Stack Developer and a Data Analyst, and currently learning PenTest. 
 I love identifying and analyzing problems.
 
 ### Talking about Personal Stuff:
@@ -20,4 +19,4 @@ I love identifying and analyzing problems.
 
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=python,go,js,ts,rust,java,cpp,zig)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,go,js,ts,rust)](https://skillicons.dev)
